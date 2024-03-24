@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as n,b as e}from"./app-k58g3Sk9.js";const o={},r=e("p",null,"first page in category1",-1),_=["src"];function a(t,l){return c(),n("div",null,[r,e("img",{src:t.$withBase("wzy.png"),alt:"wzy"},null,8,_)])}const f=s(o,[["render",a],["__file","121501.html.vue"]]);export{f as default};
